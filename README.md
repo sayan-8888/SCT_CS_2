@@ -4,7 +4,7 @@ A Python script that encrypts and decrypts images using a basic XOR operation on
 Explanation
 This script allows users to encrypt an image by applying an XOR operation on each pixel's RGB values using a specified key. The encrypted image can then be saved and later decrypted by reversing the XOR operation with the same key. The program utilizes the Python Imaging Library (PIL) to manipulate image data and supports optional pixel swapping to add further obfuscation.
 
-EXAMPLE OF CODE INPUT & OUTPUT 
+EXAMPLE CODE INPUT & OUTPUT 
 1)Install the required library using pip 
 pip install pillow 
 2)Place your input image (Fruits.jpg) in the same directory. 
